@@ -1,0 +1,6 @@
+development:
+  clients:
+    default:
+      database: nepbot
+      hosts:
+        - localhost:27017
